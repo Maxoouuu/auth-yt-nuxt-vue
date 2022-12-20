@@ -14,6 +14,36 @@
     "categories": {
       "auth": {
         "authdemoyt": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1cl57927ydosk",
+          "type": "cicd"
+        }
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authdemoyt-dev-173847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::176557674929:role/amplify-authdemoyt-dev-173847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::176557674929:role/amplify-authdemoyt-dev-173847-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-authdemoyt-dev-173847-deployment",
+      "UnauthRoleName": "amplify-authdemoyt-dev-173847-unauthRole",
+      "StackName": "amplify-authdemoyt-dev-173847",
+      "StackId": "arn:aws:cloudformation:us-east-1:176557674929:stack/amplify-authdemoyt-dev-173847/c94b0a10-8084-11ed-9d63-12c3aacfe84f",
+      "AmplifyAppId": "d1cl57927ydosk"
+    },
+    "categories": {
+      "auth": {
+        "authdemoyt": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1cl57927ydosk",
+          "type": "cicd"
+        }
       }
     }
   }
